@@ -2,6 +2,10 @@
   font-weight: bolder;
 }
 
+.font {
+  text-decoration: underline;
+}
+
 .box {
   border-left: solid;
   border-right: solid;
