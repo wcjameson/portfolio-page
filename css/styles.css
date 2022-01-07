@@ -1,0 +1,9 @@
+.fancy {
+  font-weight: bolder;
+}
+
+.box {
+  border: darkslategray;
+  padding: 10px;
+  margin: 10px;
+}
