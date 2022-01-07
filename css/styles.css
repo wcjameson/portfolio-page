@@ -3,7 +3,15 @@
 }
 
 .box {
-  border: darkslategray;
-  padding: 10px;
-  margin: 10px;
+  border-left: solid;
+  border-right: solid;
+  border-top: solid;
+  border-bottom: solid;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+
+#float {
+  float:inline-start;
 }
